@@ -12,7 +12,7 @@ To run this app, please make sure `Docker`, `Git`, and other essential python pa
 
 - Download the entire folder by `git clone git@github.com:jiansfoggy/4705_jiansun_assignment.git`
 
-- Enter the folder `cd Assignment2`
+- Enter the folder `cd Assignment1`
 
 - Data Preparation and Model Training `python3 train_model.py`
 
@@ -20,7 +20,7 @@ To run this app, please make sure `Docker`, `Git`, and other essential python pa
 
 - Use Docker Build the Streamlit Application 
   
-  1. In the `./Assignment2`, Run `make build` to build the Docker image
+  1. In the `./Assignment1`, Run `make build` to build the Docker image
 
   2. Run `make run` to process the container from the image
 
